@@ -6,7 +6,7 @@ class App extends Component {
   constructor () {
     super()
     this.state = {
-      pokemon: ['Sneasel', 'Scyther', 'Wigglytuff', 'Ludicolo', 'Nidoking']
+      pokemon: ['Sneasel', 'Scyther', 'Wigglytuff', 'Ludicolo', 'Nidoking', 'Pidgeot']
     }
   }
   
